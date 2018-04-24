@@ -1,1 +1,5 @@
 file1 file2 file3 file4 file5
+
+mkdir nomDossier
+echo textASaisir > nomFichier.ext
+start notepad nomFichier.ext
